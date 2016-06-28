@@ -2,6 +2,7 @@
 - 1_notmnist: Preprocess notMNIST data and train a simple logistic regression model on it.
 - 2_fullyconnected: Train a fully-connected network using Gradient Descent and Stochastic Gradient Descent.
 - 3_regularization: Use regularization techniques to improve a deep learning model.
+- 4_convolutions: Design and train a Convolutional Neural Network.
 
 ## Install
 
@@ -21,7 +22,8 @@ You will also need to have software installed to run and execute an [iPython Not
 Template code is provided in the following notebook files:
 - `1_notmnist.ipynb`
 - `2_fullyconnected.ipynb`
-- `3_regularization`
+- `3_regularization.ipynb`
+- `4_convolutions.ipynb`
 
 ## Run
 
