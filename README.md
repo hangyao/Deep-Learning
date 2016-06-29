@@ -1,4 +1,4 @@
-# Deep Learning notMNIST
+# Deep Learning
 - 1_notmnist: Preprocess notMNIST data and train a simple logistic regression model on it.
 - 2_fullyconnected: Train a fully-connected network using Gradient Descent and Stochastic Gradient Descent.
 - 3_regularization: Use regularization techniques to improve a deep learning model.
