@@ -4,6 +4,7 @@
 - 3_regularization: Use regularization techniques to improve a deep learning model.
 - 4_convolutions: Design and train a Convolutional Neural Network.
 - 5_word2vec: Train a skip-gram model on Text8 data and visualize the output.
+- 6_lstm: Train a Long Short-Term Memory network to predict character sequences.
 
 ## Install
 
@@ -26,6 +27,7 @@ Template code is provided in the following notebook files:
 - `3_regularization.ipynb`
 - `4_convolutions.ipynb`
 - `5_word2vec.ipynb`
+- `6_lstm.ipynb`
 
 ## Run
 
